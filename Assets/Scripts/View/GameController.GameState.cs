@@ -112,7 +112,7 @@ namespace View
             {
                 _gameplayEcsSystems.Run();
 
-                if (_playerDeathHandlerService.WasDeathHandled || Input.GetKey(KeyCode.Escape))
+                if (_playerDeathHandlerService.WasDeathHandled || _inputService.ClickedPauseButton)
                     return new DeathState();
                 return this;
             }
