@@ -16,6 +16,7 @@ Yet another simple game just to increase/demonstrate my coding and pixel-art exp
 - Custom popup manager
 - Custom final state machine
 - [DOTween](http://dotween.demigiant.com/getstarted.php)
+- [Aseprite](https://www.aseprite.org/) (Yes, myself drawn art)
 
 ## Author
 
