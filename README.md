@@ -1,4 +1,4 @@
-# Proj Nude: Use power of your body for communicate with peoples!
+# Proj Duck: Use power of your body for communicate with peoples!
 
 Yet another simple game just to increase/demonstrate my coding and pixel-art experience.
 
@@ -6,7 +6,7 @@ Yet another simple game just to increase/demonstrate my coding and pixel-art exp
     <img src="./ReadmeResources/demo.gif" height=273/>
     <br/>
     <br/>
-    <a href="https://andreylitvintsev.itch.io/projnude"><img src="./ReadmeResources/play_button.png" height=91/></a>
+    <a href="https://andreylitvintsev.itch.io/projduck"><img src="./ReadmeResources/play_button.png" height=91/></a>
 </div>
 
 ## Used tehnologies
